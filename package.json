@@ -1,0 +1,24 @@
+{
+  "name": "nodecrud",
+  "version": "1.0.0",
+  "description": "this is a bookStore app to using RESTFull API using node, express and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AK-SoloQ/NodeCRUD.git"
+  },
+  "dependencies": {
+    "express":"*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AK-SoloQ/NodeCRUD/issues"
+  },
+  "homepage": "https://github.com/AK-SoloQ/NodeCRUD#readme"
+}
